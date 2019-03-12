@@ -23,7 +23,7 @@ What things you need to install the software and how to install them
   * [Python](https://www.python.org/) - Core Language
   * [TensorFlow](https://www.tensorflow.org/) - Neural Networks
   * [Keras](https://keras.io/) - High Level API built on top of TensorFlow
-  * [Matplotlib](https://matplotlib.org/) - Image
+  * [Matplotlib](https://matplotlib.org/) - Plot Images
 
 ## Author
 
