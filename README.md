@@ -1,4 +1,4 @@
-# Handwritten Digit Classifier
+# Handwritten Digit Classifier [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 Implemented a __Convolutional Neural Network__ on the MNIST database to classify handwritten digits (0-9). Created a Sequential Model and added the necessary layers to get an accuracy of ~98% in 3 epochs. This problem is colloquially referred to as the __'Hello, World!"__ program of Deep Learning.
 
 ![screenshot](https://github.com/Nem3sisX/handwritten-digit-classifier/blob/master/Output.png)
