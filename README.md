@@ -1,5 +1,5 @@
 # Handwritten Digit Classifier
-Implemented a Convolutional Neural Network on the MNIST database to classify handwritten digits (0-9). Created a Sequential Model and added the necessary layers to get an accuracy of ~98% in 3 epochs. This problem is colloquially referred to as the 'Hello, World!" problem of Deep Learning.
+Implemented a __Convolutional Neural Network__ on the MNIST database to classify handwritten digits (0-9). Created a Sequential Model and added the necessary layers to get an accuracy of ~98% in 3 epochs. This problem is colloquially referred to as the __'Hello, World!"__ program of Deep Learning.
  
 
 ## Getting Started
