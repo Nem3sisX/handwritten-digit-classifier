@@ -25,7 +25,7 @@ print(val_loss,val_accuracy)
 predictions = model.predict([x_test])
 choice = 'Y'
 while choice=='Y' or choice =='y':
-	i = int(input("Enter the index for the databse(MNIST) for which you want to see the prediction :"))
+	i = int(input("Enter the index for the database(MNIST) for which you want to see the prediction :"))
 	if i >=0:
 		print(np.argmax(predictions[i]))
 		plt.imshow(x_test[i])
